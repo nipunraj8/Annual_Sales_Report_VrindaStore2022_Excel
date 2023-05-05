@@ -4,7 +4,7 @@ Sales data analysis of Vrinda Store for the year 2022 and a comprehensive report
 # Sample questions
 ![image](https://user-images.githubusercontent.com/121822594/236412510-20d4f2b0-8941-4f3d-90a7-c5ef5c7ce9e1.png)
 
-# End-to-End Flow:
+# Methodology
 Data Cleaning --> Data Processing --> Data Analytics --> Dashboarding --> Reporting Insights
 
 
