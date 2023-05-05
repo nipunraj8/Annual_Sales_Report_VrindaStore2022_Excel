@@ -9,13 +9,10 @@ Data Cleaning --> Data Processing --> Data Analytics --> Dashboarding --> Report
 
 
 # Deliverables
-A clean and processed dataset of Vrinda Store sales data for 2022.
-
-Statistical analysis report that identifies the relationship between various factors.
-
-Data visualization dashoard that includes graphs, charts,Slicers.
-
-A comprehensive Annual Sales Report for Vrinda Store - 2022 that summarizes the findings, insights, and recommendations for increasing sales in 2023.
+1.A clean and processed dataset of Vrinda Store sales data for 2022.
+2.Statistical analysis report that identifies the relationship between various factors.
+3.Data visualization dashoard that includes pivot graphs, charts, and slicers.
+4.A comprehensive Annual Sales Report for Vrinda Store - 2022 that summarizes the findings, insights, and recommendations for increasing sales in 2023.
 
 # Insights
 ![image](https://user-images.githubusercontent.com/121822594/236413176-78124445-5e70-4d2d-a990-2067c4d8f931.png)
